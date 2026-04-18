@@ -59,7 +59,7 @@ src/main/java/
 ## How to Run
 
 ### Clone repository
-git clone https://github.com/USERNAME/DES-Encryption-Java.git
+git clone https://github.com/MLotitskyi/DES-Encryption-Java.git
 
 ### Open project
 Open the project in IntelliJ IDEA or any IDE with Maven support.
